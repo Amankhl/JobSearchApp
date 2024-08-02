@@ -21,7 +21,7 @@ params: {
 query: `${searchedJobName} ${searchedLocation}`,
 },
 headers: {
-'X-RapidAPI-Key': process.env.RAPID_API_KEY,
+'X-RapidAPI-Key': '6e879fa98cmsh88a03d2fedef235p1b0a32jsnca484c89f821',
 'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
 }
 };
