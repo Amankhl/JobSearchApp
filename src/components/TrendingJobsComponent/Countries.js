@@ -1,0 +1,1 @@
+export const countries = ["India", "China", "United States", "Indonesia", "Qatar", "Brazil", "Nigeria", "Bangladesh", "Russia", "Mexico", "Japan", "Taiwan", "Singapore", "United Kingdom", "Saudi Arab", "Dubai", "Canada", "Germany", "Spain", "France", "Italy"]
